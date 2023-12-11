@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Karmøy Auto",
+    "desc": "En nettside til Karmøy Auto, Den inneholder alt fra deres egne bilder til deres biler.",
+    "image": "karmoyauto",
+    "category": "basicweb",
+    "links": {
+      "view": "https://karmoyautoside.halvi007.repl.co/"
+    }
+  },
+  {
+    "name": "Nordy",
+    "desc": "Nettside til Nordy. Min discord bot",
+    "image": "nordy",
+    "category": "basicweb",
+    "links": {
+      "view": "https://nordy.pro"
+    }
+  },
+  {
+    "name": "NightboxRP",
+    "desc": "En nettside til nightboxrp. Her kan man se alt fra regler til server status",
+    "image": "nightboxrp",
+    "category": "basicweb",
+    "links": {
+      "view": "https://nightboxrp.no"
+    }
+  },
+  {
+    "name": "Halvi | Nettsider",
+    "desc": "Nettsiden til Halvi. Her viser jeg hva jeg kan og hva jeg kan lage.",
+    "image": "halvi",
+    "category": "basicweb",
+    "links": {
+      "view": "https://halvi-portfolio.halvi007.repl.co/"
+    }
+  },
+  {
+    "name": "Strandavegen Matgilde",
+    "desc": "Nettsiden som skal brukes i sammenheng med matboden til min far. Her finner du meny og informasjon.",
+    "image": "matgilde",
+    "category": "basicweb",
+    "links": {
+      "view": "https://strandamatgilde.no"
+    }
+  }
+]
